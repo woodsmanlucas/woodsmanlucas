@@ -6,7 +6,9 @@ categories: jekyll update
 img: Duck.png
 ---
 
-This is my first work of art that I will be posting to this site. It is a very inspired piece which I've spent several years working on. I hope you like it.
+![QUACK! QUACK!]({{ site.url }}/assets/Duck.png)
+
+This is my first work of art that I will be posting to this site. It is a very inspired piece which I've spent several years working on. I hope you like it. Since it is such a deep and inspiring piece I'm going to just go ahead an explain to you what it is: It's a duck.
 
 
-Yes, It is for sale I am very glad you asked. It is 10 trillion USD.
+Yes, It is for sale I am very glad you asked. It is 100,000 USD.
